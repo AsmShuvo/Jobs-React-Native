@@ -16,6 +16,8 @@
 - Expo
 - Stylesheet
 
+## Screenshots
+
 <img src="ss/home.png" width="250" height="500" />
 <img src="ss/job.png" width="250" height="500"/>
 
