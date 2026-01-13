@@ -16,8 +16,8 @@
 - Expo
 - Stylesheet
 
-<img src="ss/home.png" width="150" height="300" />
-<img src="ss/job.png" width="150" height="300"/>
+<img src="ss/home.png" width="250" height="500" />
+<img src="ss/job.png" width="250" height="500"/>
 
 ## <a name="features">🔋 Features</a>
 
