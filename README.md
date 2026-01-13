@@ -16,6 +16,9 @@
 - Expo
 - Stylesheet
 
+![Home Screen](ss/home.png)
+![Job Details Screen](ss/job.png)
+
 ## <a name="features">🔋 Features</a>
 
 👉 **Visually Appealing UI/UX Design**: Develop an aesthetically pleasing user interface using React Native components.
