@@ -16,8 +16,8 @@
 - Expo
 - Stylesheet
 
-![Home Screen](ss/home.png)
-![Job Details Screen](ss/job.png)
+<img src="ss/home.png" width="150" height="300" />
+<img src="ss/job.png" width="150" height="300"/>
 
 ## <a name="features">🔋 Features</a>
 
@@ -58,8 +58,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/AsmShuvo/Jobs-React-Native.git
+cd Jobs-React-Native
 ```
 
 **Installation**
@@ -69,8 +69,6 @@ Install the project dependencies using npm:
 ```bash
 npm install
 ```
-
-**Set Up Environment Variables**
 
 In the `useFetch.js` put your own RapidApiKey
 
@@ -85,3 +83,5 @@ Replace the placeholder values with your actual credentials. You can obtain thes
 ```bash
 npm start
 ```
+
+### Best of luck
